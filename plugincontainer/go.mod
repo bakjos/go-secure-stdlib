@@ -5,7 +5,7 @@ go 1.21
 toolchain go1.22.3
 
 require (
-	github.com/docker/docker v26.1.0+incompatible
+	github.com/docker/docker v27.0.3+incompatible
 	github.com/hashicorp/go-hclog v1.5.0
 	github.com/hashicorp/go-plugin v1.6.0
 	github.com/joshlf/go-acl v0.0.0-20200411065538-eae00ae38531
